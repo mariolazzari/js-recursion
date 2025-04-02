@@ -37,3 +37,8 @@ Function that helps main function
 - swapping
 - partitioning
 - sorting
+
+## Solving technical interviews
+
+### Palindrome strings
+
