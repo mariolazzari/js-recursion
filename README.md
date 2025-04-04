@@ -125,3 +125,10 @@ function isPalindrome(phrase) {
 - BFS
 
 ### Linked list
+
+## Links
+
+[Modern JS](https://javascript.info/)
+[MDN](https://developer.mozilla.org/)
+[Princeton](https://www.cs.princeton.edu/)
+[MIT](https://ocw.mit.edu/)
