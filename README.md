@@ -118,3 +118,10 @@ function isPalindrome(phrase) {
 
 ### Leaves number in a binary tree
 
+- DFS
+  - pre order
+  - in order
+  - post order
+- BFS
+
+### Linked list
